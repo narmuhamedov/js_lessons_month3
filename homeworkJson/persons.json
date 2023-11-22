@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Radomir",
+    "age": 26,
+    "photo": "images/avatarka1.png",
+    "bio": "Proger Backend",
+    "surname": "Narmukhamedov"
+  },
+
+  {
+    "name": "Anna",
+    "age": 23,
+    "photo": "images/avatarka2.png",
+    "bio": "Proger Frontend"
+  },
+
+  {
+    "name": "Mark",
+    "age": 22,
+    "photo": "images/avatarka3.png",
+    "bio": "Ux-UI Developer",
+    "surname": "Cyperberg"
+  },
+
+  {
+    "name": "Nina",
+    "age": 33,
+    "bio": "Proger Frontend"
+  }
+]

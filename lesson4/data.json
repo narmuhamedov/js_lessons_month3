@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Radomir",
+    "age": 26,
+    "float": 12.23,
+    "array": [
+      false,
+      true
+    ],
+    "object": {
+      "key": null
+    }
+  },
+  {
+    "name": "Radomir",
+    "age": 26,
+    "float": 12.23,
+    "array": [
+      false,
+      true
+    ],
+    "object": {
+      "key": null
+    }
+  }
+]
